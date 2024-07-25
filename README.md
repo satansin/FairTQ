@@ -8,4 +8,4 @@ Folder [`baselines/`](baselines) contains the code and data for the baselines in
 * SR-Adapt
 * Greedy
 * Prop
-* FI*IR
+* FA*IR
