@@ -1,6 +1,6 @@
 # Fair Top-k Query on Alpha-Fairness
 
-This repository contains the code and the [technical report](FairTopK-TechnicalReport.pdf) for the submission "Fair Top-k Query on Alpha-Fairness".
+This repository contains the source code and the [technical report](FairTopK-TechnicalReport.pdf) for the ICDE 2024 paper "Fair Top-k Query on Alpha-Fairness".
 
 ## Requirements
 - Linux Environment with GCC
