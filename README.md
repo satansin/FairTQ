@@ -1,6 +1,6 @@
 # Fair Top-k Query on Alpha-Fairness
 
-This repository contains the source code and the [technical report](FairTopK-TechnicalReport.pdf) for the ICDE 2024 paper "Fair Top-k Query on Alpha-Fairness".
+This repository contains the source code and the [technical report](FairTopK-TechnicalReport.pdf) for the ICDE 2024 paper [Fair Top-k Query on Alpha-Fairness](https://ieeexplore.ieee.org/document/10597894).
 
 The code, data, test samples and the instructions for running the code can be found in [`ftq/`](ftq).
 
