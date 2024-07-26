@@ -4,8 +4,8 @@ make_qhull:
 	make -C qhull/
 
 make_ftq:
-	make -C UTK/src/
+	make -C FairTQ-Exact/
 
 clean:
 	make cleanall -C qhull/
-	make clean -C UTK/src/
+	make clean -C FairTQ-Exact/
