@@ -4,13 +4,13 @@ This folder contains the source code, data and test samples of the baselines.
 
 ## Requirements
 - Linux Environment with GCC for baselines Greedy, Prop and SR-Adapt written in C++
-- For baseline FA*IR written in Python, please refer to [`FA-IR`](FA-IR/)
+- For baseline FA*IR written in Python, please refer to [`FA-IR/`](FA-IR/)
 
 ## Usage
 
 1. Compile with `make` command.
    - This will automatically compile the dependency package qhull under qhull/ and compile all the C++ based baselines.
-   - There is no need to compile baseline FA*IR, please refer to [`FA-IR`](FA-IR/) for how to run it.
+   - There is no need to compile baseline FA*IR, please refer to [`FA-IR/`](FA-IR/) for how to run it.
 2. Run our tests with `./run_all_tests.sh`.
    - This will run the two tests under folder test1/ and test2/, using dataset XING and COMPAS, respectively.
    - For both tests, baselines Greedy, Prop and SR-Adapt will be executed one-by-one.
